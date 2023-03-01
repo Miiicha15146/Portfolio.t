@@ -10,7 +10,7 @@
           <a href="https://www.instagram.com/miiicha15146/" target="_blank">
             <li><img class="c-icon" src="https://miiicha15146.github.io/portfolio/image/icoInstagram.png" alt="">Instagram</li>
           </a>
-          <a href="https://twitter.com/myk_t_114" target="_blank">
+          <a href="https://twitter.com/michi__0122" target="_blank">
             <li><img class="c-icon" src="https://miiicha15146.github.io/portfolio/image/icoTwitter.png" alt="">Twitter</li>
           </a>
         </ul>
